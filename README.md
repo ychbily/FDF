@@ -29,12 +29,11 @@ make bonus
 ./fdf <map_file>
 ./fdf_bonus <map_file>
 
-## Control for bonus part:
+## Screenshots
 
-+ Zoom: Scroll wheel or '+' and '-' keys.
-+ Rotation: z, x , y or c , q, w
-+ Move: WASD keys or Arrow keys.
-+ Parallel Projection: 'p' key.
-+ Isometric projection: 'i' key.
-+ Reset: 'R' key.
-+ Exit: ESC key or click the close button.
+![FDF Screenshot](./images/img2.png)
+![FDF Screenshot](./images/img3.png)
+
+## Acknowledgments
+
+Completed as part of the curriculum at [1337 School](https://1337.ma/) in Khouribga, Morocco, achieving a perfect score of 125/125.
