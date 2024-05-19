@@ -19,13 +19,17 @@ FDF is a simple 3D wireframe viewer designed to render landscapes in the form of
 
 ```bash
 git clone https://github.com/ychbily/FDF.git
-
+``` 
 2. Compile the project:
+```bash
 make
+```
 or
+```bash
 make bonus
-
-3. Run the program with a provided map file:
+```
+4. Run the program with a provided map file:
+```bash
 ./fdf <map_file>
 ./fdf_bonus <map_file>
 ```
