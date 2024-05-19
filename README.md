@@ -1,6 +1,6 @@
 # FDF - 3D Wireframe Viewer
 
-![FDF Screenshot](./images/img1)
+![FDF Screenshot](./images/img1.png)
 
 ## Overview
 
