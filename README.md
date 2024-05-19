@@ -28,8 +28,7 @@ make bonus
 3. Run the program with a provided map file:
 ./fdf <map_file>
 ./fdf_bonus <map_file>
-
-```bash
+```
 
 ## Screenshots
 
