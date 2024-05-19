@@ -29,6 +29,8 @@ make bonus
 ./fdf <map_file>
 ./fdf_bonus <map_file>
 
+```bash
+
 ## Screenshots
 
 ![FDF Screenshot](./images/img2.png)
