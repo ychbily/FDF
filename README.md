@@ -1,11 +1,12 @@
-# FDF - 3D Wireframe Viewer
-
+###
 ![FDF Screenshot](./images/img1.png)
 
 <p align="center">
   <img src="images/fdfm.png" alt="ready to help"/>
 </p>
-
+<h1 align="center">
+ 42 Project - FDF - 3D Wireframe Viewer
+</h1>
 
 ## Overview
 
