@@ -2,7 +2,7 @@
 ![FDF Screenshot](./images/img1.png)
 
 <p align="center">
-  <img src="images/fdfm.png" alt="ready to help"/>
+  <img src="images/fdfm.png" alt="fdf badge"/>
 </p>
 <h1 align="center">
  42 Project - FDF - 3D Wireframe Viewer
