@@ -2,6 +2,11 @@
 
 ![FDF Screenshot](./images/img1.png)
 
+<p align="center">
+  <img src="images/fdfm.png" alt="ready to help"/>
+</p>
+
+
 ## Overview
 
 FDF is a simple 3D wireframe viewer designed to render landscapes in the form of heightmaps. It reads input files containing coordinates and displays the corresponding 3D representation using the MiniLibX graphics library.
